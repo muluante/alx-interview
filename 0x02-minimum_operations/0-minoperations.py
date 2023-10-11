@@ -26,4 +26,8 @@ def minOperations(n):
     for i in range(len(prime_factors)):
         minOp += prime_factors[i]
 
+<<<<<<< HEAD
     return int(minOp)
+=======
+    return int(minOp)
+>>>>>>> d7a3cce259cf6a7f5e372e67a1f9878b3def409c
